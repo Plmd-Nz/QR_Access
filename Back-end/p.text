@@ -1,0 +1,28 @@
+Voici l'haboresence de mon proje :
+*** Projet :
+        ** Back-end :
+           * app :
+                > routes :
+                    - __init__.py
+                    - admin.py
+                    - auth.py
+                    - scan.py
+
+                > services :
+                    - __init__.py
+                    - data_service.py
+                    - email_service.py
+                    - photo_service.py
+                    - reporting_service.py
+
+                > static :
+                    > photos
+
+                -__init__.py
+                - config.py
+                - extensions.py
+                - models.py
+
+            - run.py
+
+        ** Front-end :

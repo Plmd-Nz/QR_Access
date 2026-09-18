@@ -1,0 +1,1 @@
+<template><v-container fluid><v-alert type="error" prominent>404 - Page Introuvable</v-alert></v-container></template>
